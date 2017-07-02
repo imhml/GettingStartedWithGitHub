@@ -1,0 +1,1 @@
+This is the simple documentation page on how to get stared working with github. Thiis repository contains the file that explain shortly about git and github and how to used it to make the repository of the project.
